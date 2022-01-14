@@ -3,9 +3,9 @@
     package="com.example.loginform">
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/logo"
+        android:icon="@mipmap/loginicon"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/loginicon"
         android:supportsRtl="true"
         android:theme="@style/Theme.LoginForm">
         <activity
